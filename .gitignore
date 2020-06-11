@@ -1,0 +1,16 @@
+#Jupyter notebook files
+.ipynb_checkpoints/
+
+#pip build files
+__pycache__
+.DS_Store
+*.egg*
+*.pyc
+dist/
+build/
+
+#virtual environments
+/env
+
+#testing files
+.coverage
