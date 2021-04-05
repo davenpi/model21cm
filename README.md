@@ -29,7 +29,7 @@ Package Name: model21cm
 This package infers the parameters for a model consisting of three parts: 
 
 * The emission of 21cm light emitted from an excited state of interstallar hydrogen that has propagated according to cosmological models to an observer on Earth
-* The affect of astrophysical foregrounds on the 21cm signal described above
+* The effect of astrophysical foregrounds on the 21cm signal described above
 * A noise term additional to the two effects above
 
 --------------------
